@@ -1,5 +1,5 @@
 body{
-  background-color: #1f1e1e;
+  background-color: #40afdb;
   color:white;
   overflow: hidden;
 }
@@ -17,7 +17,7 @@ margin-right: auto;
 margin-top: 3%;
 max-height: 80vh;
 overflow-y: auto;
-box-shadow: 0px 5px 7px rgb(27, 27, 27);
+box-shadow: 0px 5px 7px rgb(236, 195, 195);
 
 }
 
@@ -95,7 +95,7 @@ box-shadow: 0px 5px 7px rgb(27, 27, 27);
 }
 
 .todo-list-item{
-  background-color: #414040;
+  background-color: #db7575;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -108,14 +108,14 @@ box-shadow: 0px 5px 7px rgb(27, 27, 27);
 
 .todo-list-item h3{
   font-size: 25px;
-  color: rgb(0,230,122);
+  color: rgb(0, 81, 230);
   font-weight: bold;
   margin: 0;
 }
 
 .todo-list-item p{
   font-size: 14px;
-  color: rgb(161, 161, 161);
+  color: rgb(202, 121, 121);
   margin-top: 8px;
 }
 
@@ -125,18 +125,18 @@ box-shadow: 0px 5px 7px rgb(27, 27, 27);
 }
 
 .icon:hover{
-  color: red;
+  color: rgb(0, 255, 213);
 }
 
 .check-icon{
   font-size: 25px;
   margin-left: 10px;
-  color:rgb(0,230,122);
+  color:rgb(150, 230, 0);
   cursor: pointer;
 }
 
 .check-icon:hover{
-  color: rgb(4, 196, 106);
+  color: rgb(196, 4, 138);
 }
 
 .edit__wrapper{
